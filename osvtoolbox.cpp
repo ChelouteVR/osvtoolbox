@@ -1,9 +1,11 @@
 /**
  * OSV Toolbox - DJI OSV File Extractor/Recomposer
+ * Author: ChelouteVR
  *
  * Cross-platform tool for extracting and recomposing DJI OSV files (MP4 variant)
  *
  * Compilation:
+ * MacOS / Linux
  *   g++ -std=c++17 -O2 -o osvtoolbox osvtoolbox.cpp
  *
  * On Windows (MSVC):
